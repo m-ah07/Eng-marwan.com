@@ -59,7 +59,7 @@ This project reflects that vision. It is a **learning journey** transformed into
    - Track how many times each service is used; displayed on the homepage.
 
 
-### Localization & Multiple Languages
+## Localization & Multiple Languages
 
 Eng-Marwan.com supports **multi-lingual** content, allowing users from various locales to navigate and use the website in their preferred language. The languages currently provided include:
 
