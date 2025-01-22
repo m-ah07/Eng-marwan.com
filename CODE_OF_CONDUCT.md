@@ -22,7 +22,6 @@ Examples of unacceptable behavior by participants include:
 - Publishing others' private information, such as physical or electronic addresses, without explicit permission.
 - Any other conduct which could reasonably be considered inappropriate in a professional setting.
 
----
 
 ### **Our Responsibilities**
 
@@ -30,7 +29,6 @@ Project maintainers are responsible for clarifying the standards of acceptable b
 
 Maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, or other contributions that are not aligned with this Code of Conduct. They may also temporarily or permanently ban any contributor whose behavior they deem inappropriate, threatening, offensive, or harmful.
 
----
 
 ### **Scope**
 
@@ -41,7 +39,6 @@ This Code of Conduct applies to all project spaces, including but not limited to
 
 It also applies when an individual is representing the project in public spaces.
 
----
 
 ### **Enforcement**
 
