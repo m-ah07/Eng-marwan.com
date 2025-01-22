@@ -18,7 +18,6 @@ Welcome to **Eng-Marwan.com** – a personal website that evolved beyond a simpl
 10. [Contributing](#contributing)  
 11. [Contact](#contact)
 
----
 
 ## Overview
 
@@ -30,7 +29,6 @@ Welcome to **Eng-Marwan.com** – a personal website that evolved beyond a simpl
   
 All these services run on top of a **Laravel** backend and are accessible via a user-friendly UI. The application also demonstrates multilingual support and usage counters to track service popularity.
 
----
 
 ## Motivation
 
@@ -38,7 +36,6 @@ All these services run on top of a **Laravel** backend and are accessible via a 
 
 This project reflects that vision. It is a **learning journey** transformed into a practical solution, open for the community to use, adapt, and build upon.
 
----
 
 ## Features
 
@@ -61,7 +58,6 @@ This project reflects that vision. It is a **learning journey** transformed into
 5. **Services Usage Counters**  
    - Track how many times each service is used; displayed on the homepage.
 
----
 
 ### Localization & Multiple Languages
 
@@ -110,7 +106,6 @@ resources/
 
 By maintaining a folder and file structure like the above, you ensure seamless translation across your Blade views, making Eng-Marwan.com accessible to a broader global audience.
 
----
 
 ## Tech Stack
 
@@ -125,7 +120,6 @@ By maintaining a folder and file structure like the above, you ensure seamless t
   - `pdftoppm` (via shell commands) for PDF-to-image conversion.  
   - [NumberFormatter](https://www.php.net/manual/en/class.numberformatter.php) for converting numbers into words.
 
----
 
 ## Directory Structure
 
@@ -207,6 +201,7 @@ Eng-Marwan.com/
 ├── vendor/
 ├── venv/
 ├── artisan
+├── CODE_OF_CONDUCT.md
 ├── composer.json
 ├── composer.lock
 ├── package-lock.json
@@ -223,7 +218,6 @@ Eng-Marwan.com/
 └── README.md
 ```
 
----
 
 ## Installation & Setup
 
@@ -264,7 +258,6 @@ Eng-Marwan.com/
    ```
    The site should now be live at `http://127.0.0.1:8000`.
 
----
 
 ## Security & Best Practices
 
@@ -277,15 +270,12 @@ Eng-Marwan.com/
 - **Directory Permissions**:  
   Ensure `storage/` is writable, but do not expose it publicly.
 
----
-
 
 ## License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 Feel free to adapt and build upon it for your own needs.
 
----
 
 ## Contributing
 
@@ -297,7 +287,6 @@ Feel free to adapt and build upon it for your own needs.
 
 We welcome community contributions—new services, UI improvements, or localization support!
 
----
 
 ## Contact
 
