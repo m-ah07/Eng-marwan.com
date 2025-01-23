@@ -6,7 +6,7 @@ We, as contributors and maintainers of this project, pledge to create an inclusi
 
 ---
 
-### **Our Standards**
+## **Our Standards**
 
 Examples of behavior that contribute to creating a positive environment include:
 - Using welcoming and inclusive language.
@@ -23,14 +23,14 @@ Examples of unacceptable behavior by participants include:
 - Any other conduct which could reasonably be considered inappropriate in a professional setting.
 
 
-### **Our Responsibilities**
+## **Our Responsibilities**
 
 Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
 Maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, or other contributions that are not aligned with this Code of Conduct. They may also temporarily or permanently ban any contributor whose behavior they deem inappropriate, threatening, offensive, or harmful.
 
 
-### **Scope**
+## **Scope**
 
 This Code of Conduct applies to all project spaces, including but not limited to:
 - GitHub repositories
@@ -40,7 +40,7 @@ This Code of Conduct applies to all project spaces, including but not limited to
 It also applies when an individual is representing the project in public spaces.
 
 
-### **Enforcement**
+## **Enforcement**
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at **[info@eng-marwan.com](mailto:info@eng-marwan.com)**. All complaints will be reviewed and investigated, and the project team is committed to maintaining confidentiality regarding the reporter of an incident.
 
