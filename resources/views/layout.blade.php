@@ -128,7 +128,7 @@
                 <div class="footer-col">
                     <h4>{{ __('messages.follow_us') }}</h4>
                     <div class="social-links">
-                        <a href="https://github.com/marwan-ahmed-23" target="_blank" rel="noopener noreferrer"><i
+                        <a href="https://github.com/m-ah07" target="_blank" rel="noopener noreferrer"><i
                                 class="fab fa-github"></i></a>
                         <a href="https://www.linkedin.com/in/marwan-ah" target="_blank" rel="noopener noreferrer">
                             <i class="fab fa-linkedin-in"></i>
@@ -138,7 +138,7 @@
             </div>
         </div>
         <div class="copyright-text">
-            <p>{{ __('messages.all_codes') }} <a class="span-color" href="https://github.com/marwan-ahmed-23/eng-marwan.com"
+            <p>{{ __('messages.all_codes') }} <a class="span-color" href="https://github.com/m-ah07/eng-marwan.com"
                     target="_blank" rel="noopener noreferrer">{{ __('messages.my_github') }}</a>.</p>
         </div>
     </footer>
