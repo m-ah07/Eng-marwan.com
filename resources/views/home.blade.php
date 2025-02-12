@@ -7,7 +7,7 @@
             <h1>{{ __('messages.hero_title', ['name' => 'Eng MARWAN']) }}</h1>
             <p>{{ __('messages.hero_subtitle') }}</p>
             <div class="social-links">
-                <a href="https://github.com/marwan-ahmed-23" target="_blank" rel="noopener noreferrer"><i
+                <a href="https://github.com/m-ah07" target="_blank" rel="noopener noreferrer"><i
                         class="fab fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/marwan-ah" target="_blank" rel="noopener noreferrer"><i
                         class="fab fa-linkedin-in"></i></a>
