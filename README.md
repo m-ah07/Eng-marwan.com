@@ -223,7 +223,7 @@ Eng-Marwan.com/
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/marwan-ahmed-23/eng-marwan.com.git
+   git clone https://github.com/m-ah07/eng-marwan.com.git
    cd eng-marwan.com
    ```
 
@@ -291,7 +291,7 @@ We welcome community contributions—new services, UI improvements, or localizat
 ## Contact
 
 - **Website**: [Eng-Marwan.com](https://eng-marwan.com)  
-- **GitHub**: [Marwan Ben Ahmed](https://github.com/marwan-ahmed-23)  
+- **GitHub**: [Marwan Ben Ahmed](https://github.com/m-ah07)  
 - **LinkedIn**: [Marwan Taresh](https://www.linkedin.com/in/marwan-ah)  
 - **Email**: info@eng-marwan.com  
 
