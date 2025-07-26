@@ -77,8 +77,7 @@ Each language has its own folder inside `resources/lang/<locale>`, containing th
 resources/
 └── lang/
     ├── ar/
-    │   ├── messages.php
-    │   └── ...
+    │   └── messages.php
     ├── es/
     │   └── messages.php
     ├── fr/
